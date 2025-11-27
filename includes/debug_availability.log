@@ -1,0 +1,8 @@
+Array
+(
+    [instructor_id] => 18
+    [role] => instructor
+    [service_type] => lesson
+    [start] => 2025-10-26T00:00:00-03:00
+    [end] => 2025-12-07T00:00:00-03:00
+)
